@@ -21,6 +21,9 @@ where:
 2. The program requests the required inputs  
 3. The correct electrical value is computed and displayed
 
+## Example Output
+![Ohm's Law Calculator Output](ohms_output.png)
+
 ##  Purpose
 This project was created to reinforce **basic electrical engineering concepts** and practice **programming logic**.
 
