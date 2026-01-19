@@ -1,7 +1,7 @@
 # Ohm’s Law Calculator
 
-This project is a simple engineering calculator based on **Ohm’s Law**.  
-It allows users to calculate **Voltage, Current, or Resistance** when two values are known.
+This project is a simple engineering-focused calculator based on Ohm’s Law, developed using Python.
+It allows users to calculate Voltage (V), Current (I), or Resistance (R) when any two quantities are known.
 
 ##  Theory
 Ohm’s Law states that:
@@ -24,13 +24,24 @@ where:
 ## Example Output
 ![Ohm's Law Calculator Output](ohms_output.png)
 
-##  Purpose
-This project was created to reinforce **basic electrical engineering concepts** and practice **programming logic**.
+##  Purpose of the project
+This project was developed to:
+- Reinforce basic electrical engineering concepts
+- Apply theoretical knowledge using programming
+- Practice logical thinking and user input handling in Python
+
+It represents an early step toward building skills in engineering-oriented software development
 
 ##  Future Improvements
-- Add error handling
-- Add a graphical interface
-- Extend to power calculations
+- Add robust error handling for invalid inputs
+- Implement a graphical user interface (GUI)
+- Extend functionality to include power calculations
+- Add unit selection (Ω, kΩ, mA, V)
+
+##  Learning outcome 
+- Practical application of ohm's law
+- Improved understanding of user input and conditional logic
+- Introduction to combining engineering theory with programming
 
 
 
